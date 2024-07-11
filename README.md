@@ -17,49 +17,71 @@ Hyperparameter tuning and cross-validation are applied to optimize model perform
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Anaconda,Visual Studio, Jupyter Notebook IDE</b>
-- <b>Support vector Machine, Logistic Regression, Decision Tree, Random Forest Machine Lerning models</b>
-- <b>Windows 10</b>
-- <b>RAM 8GB</b>
-
-
-
-
+- <b>Numpy</b>
+- <b>Pandas</b>
+- <b>Scikit-Learn</b>
+- <b>Matplotlib</b>
+- <b>Random Forest</b>
+- <b>Logistic Regression</b>
+- <b>Support Vector Machine</b>
+- <b>Decision Tree</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>RAM 8GB</b>
+- <b>Hard Disk 500GB</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Jupyter Notebook: <br/>
+<img src="https://imgur.com/ljzb7Np.jpg" height="80%" width="80%" alt="Open Notebook"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import libraries:  <br/>
+<img src="https://imgur.com/3NbGQy6.jpg" height="80%" width="80%" alt="Import Libraries"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import Dataset: <br/>
+<img src="https://imgur.com/MvlkflL.png" height="80%" width="80%" alt="Import dataset"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Box Plot Visualization:  <br/>
+<img src="https://imgur.com/4leNkAu.png" height="80%" width="80%" alt="Box Plot"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Joint Plot Visualization:  <br/>
+<img src="https://imgur.com/pH7Y0Fd.png" height="80%" width="80%" alt="Joint Plot"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bar Chart Visualization:  <br/>
+<img src="https://imgur.com/0LYqQB3.png" height="80%" width="80%" alt="Bar Chart"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Pie Chart Visualization:  <br/>
+<img src="https://imgur.com/K25g368.png" height="80%" width="80%" alt="Pie Chart"/>
+<br />
+<br />
+Correlation Matrix:  <br/>
+<img src="https://imgur.com/VRTMgti.png" height="80%" width="80%" alt="Correlation Matrix"/>
+<br />
+<br />
+Finding Best Machine Learning Model using Bar Chart:  <br/>
+<img src="https://imgur.com/tfM5OJy.png" height="80%" width="80%" alt="Bar Graph"/>
+<br />
+<br />
+Hyperparameter Tuning:  <br/>
+<img src="https://imgur.com/wAbIngL.png" height="80%" width="80%" alt="Tuning"/>
+<br />
+<br />
+Prediction Using Test Data:  <br/>
+<img src="https://imgur.com/a1TaOCi.png" height="80%" width="80%" alt="Test Data"/>
+<br />
+<br />
 </p>
+
+
 
 <!--
  ```diff

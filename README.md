@@ -31,6 +31,7 @@ Hyperparameter tuning and cross-validation are applied to optimize model perform
 - <b>Windows 10</b> (21H2)
 - <b>RAM 8GB</b>
 - <b>Hard Disk 500GB</b>
+- <b>Anaconda, jupyter Notebook IDE</b>
 
 <h2>Program walk-through:</h2>
 
